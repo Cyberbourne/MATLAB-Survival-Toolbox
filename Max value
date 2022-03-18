@@ -1,0 +1,6 @@
+maxval = Time(1);
+ for ii = 1:length(Time)
+    if Time(ii) > maxval
+        maxval = Time(ii);
+    end
+ end
