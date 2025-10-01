@@ -3,7 +3,7 @@
 %Exam I.
 %--------------------------------------------------------------------------
 %Question 4, the Whittaker Method.
-%In this question, I have to compute a yhe Whittaker Method, that is a a
+%In this question, I have to compute a the Whittaker Method, that is a a
 %variant for root findings similar to Newton's method. Its main definition
 %is x1 = xk - f(xk)/m, where x1 is the updated value, xk the stated initial
 %value, f(xk), the image of the initial value in the original function and
@@ -26,3 +26,4 @@ end
 %The end of the function in exercise 4.
 %--------------------------------------------------------------------------
 %This is the end of exercise 4.
+
